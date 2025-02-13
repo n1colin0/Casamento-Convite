@@ -118,12 +118,6 @@ input[type="checkbox"] {
     color: #000;
     margin-bottom: 15px;
 }
-
-.qr-code-container img {
-    width: 120px;
-    height: 120px;
-}
-
 /* Animação de transição entre as telas */
 .hidden {
     opacity: 0;
